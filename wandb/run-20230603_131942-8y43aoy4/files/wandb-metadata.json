@@ -1,0 +1,41 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.10.8",
+    "heartbeatAt": "2023-06-03T11:19:42.958483",
+    "startedAt": "2023-06-03T11:19:42.065815",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/JasonMerit/Learning-with-ChatGPT.git",
+        "commit": "99e575f896e3a662b7b73e519bb2998bac144131"
+    },
+    "email": "76186383+JasonMerit@users.noreply.github.com",
+    "root": "C:/Users/Jason/Documents/DTU/4. Semester/3_Project_Work/Learning-with-ChatGPT",
+    "host": "DESKTOP-MP2MM4P",
+    "username": "Jason",
+    "executable": "c:\\Users\\Jason\\miniconda3\\python.exe",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2201.0,
+        "min": 0.0,
+        "max": 2201.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2201.0,
+            "min": 0.0,
+            "max": 2201.0
+        }
+    ],
+    "disk": {
+        "total": 237.93585205078125,
+        "used": 210.74043655395508
+    },
+    "memory": {
+        "total": 7.878032684326172
+    }
+}
